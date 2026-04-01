@@ -1,33 +1,46 @@
-# Zapier-Project
-Z-Project 1
-# Content Repurposing in Zapier AND in Make
+# 📌 Content Repurposing Automation (Zapier)
 
-## 📋 Instructions
-Make a Loom recording showing how you repurpose content using both Zapier and Make.
-
-### 🔹 Requirements
-
-- Start with an audio or video file (any format)
-- Trigger automation when the file is added to a folder (Google Drive or Microsoft OneDrive)
-- Generate a 📄 script from the transcription
-- Create 2–3 blog posts from the transcription
-- Create Instagram and LinkedIn posts for each article
-- Log each step in a Google Sheet or Microsoft Excel sheet
-
-> Note: Content creation steps can use OpenAI or similar tools. The main focus is on automation and system connections. Strong prompts are a bonus.
-
-- Include at least one **filter step**
-- Include **paths (branching logic)** in the automation  
-  - Example: Check for a keyword in the title/article  
-  - If condition is met → post to social media  
-  - If not → skip posting  
+## 📖 Overview
+This project demonstrates how to automate content repurposing using Zapier. A single audio or video file is automatically converted into blog articles and social media posts.
 
 ---
 
-## 🎥 Loom Video (Zapier)
-[Paste your Zapier Loom video link here – make sure it is accessible to anyone with the link]
+## ⚙️ How It Works
+
+1. Upload a video/audio file to Google Drive
+2. Zapier detects the new file (trigger)
+3. The file is transcribed into text using AI
+4. Two blog articles are generated
+5. Each article is converted into:
+   - Instagram post
+   - LinkedIn post
+6. A filter controls if content is posted or not
+7. All outputs are saved in Google Sheets
 
 ---
 
-## 🎥 Loom Video (Make)
-[Paste your Make Loom video link here – make sure it is accessible to anyone with the link]
+## 🛠 Tools Used
+- Zapier
+- Google Drive / OneDrive
+- OpenAI (or similar AI tool)
+- Google Sheets
+
+---
+
+## 🎥 Demo
+See Loom recording here:
+[Paste your Loom link here]
+
+---
+
+## ✅ Features
+- Automated transcription
+- Blog generation
+- Social media content creation
+- Filtering and conditional paths
+- Data logging
+
+---
+
+## 📌 Conclusion
+This project shows how Zapier can automate content creation and reduce manual work by turning one file into multiple outputs.
